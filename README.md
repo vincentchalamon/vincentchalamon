@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (1 week ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)
@@ -11,7 +12,6 @@
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 months ago)
 - [coopTilleuls/symfonycon-workshop2022](https://github.com/coopTilleuls/symfonycon-workshop2022) -  (4 months ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 months ago)
-- [Chris53897/awesome-api-platform](https://github.com/Chris53897/awesome-api-platform) - A curated list of API Platform libraries, resources and shiny things.  (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 

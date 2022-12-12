@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (today)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
@@ -11,7 +12,6 @@
 - [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (2 months ago)
 - [vincentchalamon/nav-bundle](https://github.com/vincentchalamon/nav-bundle) - Symfony bundle for Microsoft Dynamics Nav (2 months ago)
 - [coopTilleuls/symfonycon-workshop2022](https://github.com/coopTilleuls/symfonycon-workshop2022) -  (4 months ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

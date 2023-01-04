@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.8](https://github.com/api-platform/api-platform/releases/tag/v3.0.8), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.8](https://github.com/api-platform/api-platform/releases/tag/v3.0.8), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.8](https://github.com/api-platform/core/releases/tag/v3.0.8), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.4.6](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.4.6), 2 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
+- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.4.6](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.4.6), 3 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) ([5.6.5](https://github.com/GregoireHebert/docusign-bundle/releases/tag/5.6.5), 3 months ago) - Symfony bundle to create electronic signatures with DocuSign
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.16.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.16.0), 6 months ago) - JWT authentication for your Symfony API
 - [vincentchalamon/nav-bundle](https://github.com/vincentchalamon/nav-bundle) ([v2.0.0](https://github.com/vincentchalamon/nav-bundle/releases/tag/v2.0.0), 1 year ago) - Symfony bundle for Microsoft Dynamics Nav

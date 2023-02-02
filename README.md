@@ -8,8 +8,8 @@
 - [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (1 month ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 month ago)
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - JWT authentication for your Symfony API (1 month ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 month ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (2 months ago)
 

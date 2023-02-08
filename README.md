@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) - PDG: PHP Documentation Generator (1 day ago)
+- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) - PDG: PHP Documentation Generator (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [JacquesDurand/php-documentation-generator](https://github.com/JacquesDurand/php-documentation-generator) -  (5 days ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (6 days ago)

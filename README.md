@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [vincentchalamon/api-platform-issues-5308](https://github.com/vincentchalamon/api-platform-issues-5308) - Reproducer for https://github.com/api-platform/core/issues/5308 (2 days ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 weeks ago)
 - [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (2 weeks ago)
@@ -9,7 +10,6 @@
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
 - [JacquesDurand/php-documentation-generator](https://github.com/JacquesDurand/php-documentation-generator) -  (1 month ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - JWT authentication for your Symfony API (3 months ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (3 months ago)
 

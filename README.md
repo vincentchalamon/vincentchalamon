@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [vincentchalamon/api-platform-issues-5308](https://github.com/vincentchalamon/api-platform-issues-5308) - Reproducer for https://github.com/api-platform/core/issues/5308 (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [vincentchalamon/api-platform-issues-5308](https://github.com/vincentchalamon/api-platform-issues-5308) - Reproducer for https://github.com/api-platform/core/issues/5308 (3 days ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 weeks ago)
 - [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (2 weeks ago)
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) - PDG: PHP Documentation Generator (1 month ago)

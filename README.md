@@ -10,8 +10,8 @@
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
 - [JacquesDurand/php-documentation-generator](https://github.com/JacquesDurand/php-documentation-generator) -  (1 month ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)
+- [api-platform/openapi](https://github.com/api-platform/openapi) - Models to build and serialize an OpenAPI specification. (3 months ago)
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - JWT authentication for your Symfony API (3 months ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

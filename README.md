@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.10](https://github.com/symfony/symfony/releases/tag/v6.2.10), today) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.10](https://github.com/api-platform/core/releases/tag/v3.1.10), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 2 weeks ago) - The Symfony PHP framework
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.0-alpha](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.0-alpha), 1 month ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.18.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.18.1), 2 months ago) - JWT authentication for your Symfony API
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.9](https://github.com/api-platform/api-platform/releases/tag/v3.0.9), 3 months ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

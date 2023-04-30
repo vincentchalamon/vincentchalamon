@@ -11,7 +11,7 @@
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) - PDG: PHP Documentation Generator (2 months ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 months ago)
 - [JacquesDurand/php-documentation-generator](https://github.com/JacquesDurand/php-documentation-generator) -  (2 months ago)
-- [api-platform/openapi](https://github.com/api-platform/openapi) - Models to build and serialize an OpenAPI specification. (4 months ago)
+- [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

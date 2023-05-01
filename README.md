@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.10](https://github.com/symfony/symfony/releases/tag/v6.2.10), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1), today) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.10](https://github.com/api-platform/core/releases/tag/v3.1.10), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.0-alpha](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.0-alpha), 1 month ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.18.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.18.1), 2 months ago) - JWT authentication for your Symfony API

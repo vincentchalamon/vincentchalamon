@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (3 weeks ago)
-- [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (3 weeks ago)
+- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (4 weeks ago)
+- [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (4 weeks ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 month ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 month ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1), 1 day ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.10](https://github.com/api-platform/core/releases/tag/v3.1.10), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1), 2 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.10](https://github.com/api-platform/core/releases/tag/v3.1.10), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.0-alpha](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.0-alpha), 1 month ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.18.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.18.1), 2 months ago) - JWT authentication for your Symfony API
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.9](https://github.com/api-platform/api-platform/releases/tag/v3.0.9), 3 months ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

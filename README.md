@@ -11,12 +11,12 @@
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) - PDG: PHP Documentation Generator (3 months ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 months ago)
 - [JacquesDurand/php-documentation-generator](https://github.com/JacquesDurand/php-documentation-generator) -  (3 months ago)
-- [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (4 months ago)
+- [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 1 day ago) - The Symfony PHP framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 5 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 2 days ago) - The Symfony PHP framework
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 6 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.19.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.19.0), 1 week ago) - JWT authentication for your Symfony API
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.0-alpha](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.0-alpha), 1 month ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle

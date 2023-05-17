@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 4 days ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.19.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.19.0), 1 week ago) - JWT authentication for your Symfony API
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes

@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (5 days ago)
 - [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (1 month ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)
@@ -11,7 +12,6 @@
 - [vincentchalamon/api-platform-issues-5308](https://github.com/vincentchalamon/api-platform-issues-5308) - Reproducer for https://github.com/api-platform/core/issues/5308 (2 months ago)
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) - PDG: PHP Documentation Generator (3 months ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 months ago)
-- [JacquesDurand/php-documentation-generator](https://github.com/JacquesDurand/php-documentation-generator) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

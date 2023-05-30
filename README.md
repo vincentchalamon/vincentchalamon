@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.0-RC2](https://github.com/symfony/security-bundle/releases/tag/v6.3.0-RC2), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2), 3 days ago) - The Symfony PHP framework
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.0](https://github.com/symfony/security-bundle/releases/tag/v6.3.0), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0), today) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.12](https://github.com/api-platform/core/releases/tag/v3.1.12), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 3 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.19.0](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.19.0), 3 weeks ago) - JWT authentication for your Symfony API

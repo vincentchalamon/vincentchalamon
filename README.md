@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 days ago)
-- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (4 days ago)
-- [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (5 days ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (3 days ago)
+- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (5 days ago)
+- [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (6 days ago)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (2 months ago)

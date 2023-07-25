@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.2](https://github.com/api-platform/schema-generator/releases/tag/v5.2.2), 5 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.19.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.19.1), 2 weeks ago) - JWT authentication for your Symfony API
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.2](https://github.com/api-platform/schema-generator/releases/tag/v5.2.2), 6 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.19.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.19.1), 3 weeks ago) - JWT authentication for your Symfony API
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.1](https://github.com/symfony/security-bundle/releases/tag/v6.3.1), 4 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1), 4 weeks ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v2.7.13](https://github.com/api-platform/core/releases/tag/v2.7.13), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes

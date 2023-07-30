@@ -8,8 +8,8 @@
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (1 month ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (2 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (3 months ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 months ago)
 

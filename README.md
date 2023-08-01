@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), today) - The Symfony PHP framework
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.3](https://github.com/symfony/security-bundle/releases/tag/v6.3.3), today) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 1 day ago) - The Symfony PHP framework
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.3](https://github.com/symfony/security-bundle/releases/tag/v6.3.3), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.2](https://github.com/api-platform/schema-generator/releases/tag/v5.2.2), 1 week ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.19.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.19.1), 3 weeks ago) - JWT authentication for your Symfony API
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.19.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.19.1), 4 weeks ago) - JWT authentication for your Symfony API
 - [api-platform/core](https://github.com/api-platform/core) ([v2.7.13](https://github.com/api-platform/core/releases/tag/v2.7.13), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.0.10](https://github.com/api-platform/api-platform/releases/tag/v3.0.10), 2 months ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.0-alpha](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.0-alpha), 4 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle

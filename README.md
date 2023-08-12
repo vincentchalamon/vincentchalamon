@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.14](https://github.com/api-platform/core/releases/tag/v3.1.14), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.14](https://github.com/api-platform/core/releases/tag/v3.1.14), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.0-beta.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.0-beta.1), 1 week ago) - PDG: PHP Documentation Generator
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 1 week ago) - The Symfony PHP framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.3](https://github.com/symfony/security-bundle/releases/tag/v6.3.3), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework

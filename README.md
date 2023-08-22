@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (today)
+- [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 month ago)
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (1 month ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 month ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (2 months ago)
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (2 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 months ago)
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
-- [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

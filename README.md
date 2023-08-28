@@ -4,7 +4,7 @@
 
 - [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (6 days ago)
 - [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (6 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (2 months ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 months ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (2 months ago)

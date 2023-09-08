@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.1), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.1), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.4](https://github.com/symfony/security-bundle/releases/tag/v6.3.4), 1 week ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.4](https://github.com/symfony/symfony/releases/tag/v6.3.4), 1 week ago) - The Symfony PHP framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), 3 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.1.14](https://github.com/api-platform/api-platform/releases/tag/v3.1.14), 4 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.0-beta.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.0-beta.1), 1 month ago) - PDG: PHP Documentation Generator
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.2](https://github.com/api-platform/schema-generator/releases/tag/v5.2.2), 1 month ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.19.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.19.1), 2 months ago) - JWT authentication for your Symfony API

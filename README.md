@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 day ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (2 days ago)
 - [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (1 week ago)

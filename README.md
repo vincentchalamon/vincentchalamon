@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (2 days ago)
-- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (1 week ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (3 days ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (2 weeks ago)
 - [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (1 month ago)
 - [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (1 month ago)
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (2 months ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v3.2.0-beta.1), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v3.2.0-beta.1), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.4](https://github.com/symfony/security-bundle/releases/tag/v6.3.4), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.4](https://github.com/symfony/symfony/releases/tag/v6.3.4), 3 weeks ago) - The Symfony PHP framework
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.0-beta.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.0-beta.1), 1 month ago) - PDG: PHP Documentation Generator

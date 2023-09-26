@@ -24,5 +24,4 @@
 - [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.19.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.19.1), 2 months ago) - JWT authentication for your Symfony API
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.0-alpha](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.0-alpha), 6 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) ([5.6.5](https://github.com/GregoireHebert/docusign-bundle/releases/tag/5.6.5), 1 year ago) - Symfony bundle to create electronic signatures with DocuSign
-- [vincentchalamon/nav-bundle](https://github.com/vincentchalamon/nav-bundle) ([v2.0.0](https://github.com/vincentchalamon/nav-bundle/releases/tag/v2.0.0), 2 years ago) - Symfony bundle for Microsoft Dynamics Nav
 

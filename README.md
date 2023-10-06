@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 days ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (4 days ago)
-- [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (5 days ago)
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (5 days ago)
+- [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (5 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
 - [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (4 weeks ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (1 month ago)
 - [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (1 month ago)
-- [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (1 month ago)
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

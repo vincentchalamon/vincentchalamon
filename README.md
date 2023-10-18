@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0](https://github.com/api-platform/core/releases/tag/v3.2.0), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.21](https://github.com/api-platform/core/releases/tag/v3.1.21), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v6.3.5](https://github.com/symfony/security-bundle/releases/tag/v6.3.5), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.5](https://github.com/symfony/symfony/releases/tag/v6.3.5), 2 weeks ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v3.2.0-beta.1), 4 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

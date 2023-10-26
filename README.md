@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (today)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (3 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
@@ -10,7 +11,6 @@
 - [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (3 weeks ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (3 weeks ago)
 - [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (1 month ago)
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (2 months ago)
 - [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (2 months ago)
 
 #### 🔭 Latest releases I've contributed to

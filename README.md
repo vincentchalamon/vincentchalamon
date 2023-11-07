@@ -10,7 +10,7 @@
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (1 month ago)
 - [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (1 month ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 month ago)
-- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (1 month ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (2 months ago)
 - [api-platform/state](https://github.com/api-platform/state) - API Platform state interfaces (2 months ago)
 
 #### 🔭 Latest releases I've contributed to

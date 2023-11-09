@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/clever-cloud-keycloak](https://github.com/vincentchalamon/clever-cloud-keycloak) -  (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
+- [vincentchalamon/clever-cloud-keycloak](https://github.com/vincentchalamon/clever-cloud-keycloak) -  (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (1 month ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)

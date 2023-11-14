@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/clever-cloud-keycloak](https://github.com/vincentchalamon/clever-cloud-keycloak) -  (5 days ago)
+- [vincentchalamon/clever-cloud-keycloak](https://github.com/vincentchalamon/clever-cloud-keycloak) -  (6 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0-BETA3](https://github.com/symfony/security-bundle/releases/tag/v7.0.0-BETA3), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), 3 days ago) - The Symfony PHP framework
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0-BETA3](https://github.com/symfony/security-bundle/releases/tag/v7.0.0-BETA3), 4 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3), 4 days ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.2](https://github.com/api-platform/api-platform/releases/tag/v3.2.2), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.2](https://github.com/api-platform/core/releases/tag/v3.2.2), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.0-beta.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.0-beta.1), 3 months ago) - PDG: PHP Documentation Generator

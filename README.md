@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.32](https://github.com/symfony/symfony/releases/tag/v5.4.32), today) - The Symfony PHP framework
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.0), 5 days ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.6](https://github.com/api-platform/core/releases/tag/v3.2.6), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0-RC1](https://github.com/symfony/security-bundle/releases/tag/v7.0.0-RC1), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework

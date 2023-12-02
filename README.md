@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), today) - The Symfony PHP framework
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.1), today) - JWT authentication for your Symfony API
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.7](https://github.com/api-platform/core/releases/tag/v3.2.7), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0](https://github.com/symfony/security-bundle/releases/tag/v7.0.0), 2 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 1 day ago) - The Symfony PHP framework
+- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.1](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.1), 1 day ago) - JWT authentication for your Symfony API
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.7](https://github.com/api-platform/core/releases/tag/v3.2.7), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.0](https://github.com/symfony/security-bundle/releases/tag/v7.0.0), 3 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.0), 1 week ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.2](https://github.com/api-platform/api-platform/releases/tag/v3.2.2), 1 month ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.0-beta.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.0-beta.1), 4 months ago) - PDG: PHP Documentation Generator

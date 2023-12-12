@@ -15,7 +15,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ([v2.20.2](https://github.com/lexik/LexikJWTAuthenticationBundle/releases/tag/v2.20.2), 6 days ago) - JWT authentication for your Symfony API
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.1](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.1), 1 week ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.7](https://github.com/api-platform/api-platform/releases/tag/v3.2.7), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 1 week ago) - The Symfony PHP framework

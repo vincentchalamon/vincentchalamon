@@ -11,7 +11,7 @@
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (2 months ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (2 months ago)
 - [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (3 months ago)
-- [api-platform/metadata](https://github.com/api-platform/metadata) - API Resource-oriented metadata attributes and factories (3 months ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

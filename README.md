@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (2 weeks ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 month ago)
@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.13](https://github.com/api-platform/api-platform/releases/tag/v3.2.13), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 1 day ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 1 day ago) - The Symfony PHP framework
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.13](https://github.com/api-platform/api-platform/releases/tag/v3.2.13), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 2 days ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 2 days ago) - The Symfony PHP framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.12](https://github.com/api-platform/demo/releases/tag/v3.2.12), 1 week ago) - Demo app for the API Platform framework
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.5.3](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.5.3), 2 weeks ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.0-beta.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.0-beta.1), 6 months ago) - PDG: PHP Documentation Generator

@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (today)
+- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - API Platform RamseyUuid bridge (today)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (today)
+- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (today)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (today)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
-- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (2 weeks ago)
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - Les-Tilleuls.coop’s handbook (1 month ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (1 month ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
-- [vincentchalamon/dashboard](https://github.com/vincentchalamon/dashboard) - Dashboard to follow repositories from GitHub, GitLab, etc. (2 months ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 months ago)
-- [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) - Symfony bundle to create electronic signatures with DocuSign (4 months ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

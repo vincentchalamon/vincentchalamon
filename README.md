@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (1 week ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [api-platform/validator](https://github.com/api-platform/validator) - API Platform Validator component (1 week ago)
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (1 week ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
-- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (1 week ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - API Platform Validator component (1 week ago)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (1 week ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (1 week ago)
 - [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (1 week ago)
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (1 week ago)
+- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - API Platform RamseyUuid bridge (1 week ago)
 - [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (1 week ago)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 

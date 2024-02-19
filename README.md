@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (4 days ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (5 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (2 weeks ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (2 weeks ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.13](https://github.com/api-platform/demo/releases/tag/v3.2.13), 1 week ago) - Demo app for the API Platform framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.13](https://github.com/api-platform/demo/releases/tag/v3.2.13), 2 weeks ago) - Demo app for the API Platform framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.13](https://github.com/api-platform/api-platform/releases/tag/v3.2.13), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 2 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework

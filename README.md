@@ -9,14 +9,14 @@
 - [api-platform/validator](https://github.com/api-platform/validator) - API Platform Validator component (2 weeks ago)
 - [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (2 weeks ago)
 - [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (2 weeks ago)
-- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - API Platform RamseyUuid bridge (2 weeks ago)
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (2 weeks ago)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (2 weeks ago)
+- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - API Platform RamseyUuid bridge (3 weeks ago)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (3 weeks ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.14](https://github.com/api-platform/api-platform/releases/tag/v3.2.14), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.14](https://github.com/api-platform/core/releases/tag/v3.2.14), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.14](https://github.com/api-platform/api-platform/releases/tag/v3.2.14), 4 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.14](https://github.com/api-platform/core/releases/tag/v3.2.14), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.13](https://github.com/api-platform/demo/releases/tag/v3.2.13), 2 weeks ago) - Demo app for the API Platform framework
 - [symfony/security-bundle](https://github.com/symfony/security-bundle) ([v7.0.3](https://github.com/symfony/security-bundle/releases/tag/v7.0.3), 3 weeks ago) - Provides a tight integration of the Security component into the Symfony full-stack framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 3 weeks ago) - The Symfony PHP framework

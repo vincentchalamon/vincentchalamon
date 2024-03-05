@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (2 weeks ago)
 - [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (1 month ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - API Platform Validator component (1 month ago)
 - [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (1 month ago)

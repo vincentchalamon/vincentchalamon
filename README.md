@@ -10,8 +10,8 @@
 - [api-platform/validator](https://github.com/api-platform/validator) - API Platform Validator component (1 month ago)
 - [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (1 month ago)
 - [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (1 month ago)
+- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - API Platform RamseyUuid bridge (1 month ago)
 - [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (1 month ago)
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 

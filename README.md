@@ -11,7 +11,7 @@
 - [api-platform/validator](https://github.com/api-platform/validator) - API Platform Validator component (2 months ago)
 - [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (2 months ago)
 - [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (2 months ago)
-- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (2 months ago)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

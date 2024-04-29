@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.7](https://github.com/symfony/symfony/releases/tag/v6.4.7), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7), today) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.2.21](https://github.com/api-platform/api-platform/releases/tag/v3.2.21), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.2.21](https://github.com/api-platform/demo/releases/tag/v3.2.21), 2 weeks ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.2](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.2), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes

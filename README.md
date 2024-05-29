@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.5](https://github.com/api-platform/core/releases/tag/v3.3.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.4](https://github.com/api-platform/api-platform/releases/tag/v3.3.4), 1 day ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.4](https://github.com/api-platform/demo/releases/tag/v3.3.4), 2 days ago) - Demo app for the API Platform framework
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.6.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.6.0), 3 days ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.4](https://github.com/api-platform/core/releases/tag/v3.3.4), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), 1 week ago) - The Symfony PHP framework
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.2](https://github.com/api-platform/schema-generator/releases/tag/v5.2.2), 10 months ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) ([5.6.5](https://github.com/GregoireHebert/docusign-bundle/releases/tag/5.6.5), 2 years ago) - Symfony bundle to create electronic signatures with DocuSign

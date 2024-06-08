@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (today)
-- [infection/site](https://github.com/infection/site) - Documentation for Infection - PHP Mutation Testing Framework (1 day ago)
+- [infection/site](https://github.com/infection/site) - Documentation for Infection - PHP Mutation Testing Framework (2 days ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 week ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 months ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) ([0.29.4](https://github.com/infection/infection/releases/tag/0.29.4), today) - PHP Mutation Testing library
+- [infection/infection](https://github.com/infection/infection) ([0.29.4](https://github.com/infection/infection/releases/tag/0.29.4), 1 day ago) - PHP Mutation Testing library
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.5](https://github.com/api-platform/demo/releases/tag/v3.3.5), 1 week ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.5](https://github.com/api-platform/core/releases/tag/v3.3.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.4](https://github.com/api-platform/api-platform/releases/tag/v3.3.4), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

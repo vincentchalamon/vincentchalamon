@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (today)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 days ago)
 - [infection/site](https://github.com/infection/site) - Documentation for Infection - PHP Mutation Testing Framework (4 days ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
@@ -10,11 +11,11 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (3 months ago)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (3 months ago)
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (4 months ago)
-- [api-platform/validator](https://github.com/api-platform/validator) - API Platform Validator component (4 months ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.0.0](https://github.com/zenstruck/foundry/releases/tag/v2.0.0), 3 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [infection/infection](https://github.com/infection/infection) ([0.29.4](https://github.com/infection/infection/releases/tag/0.29.4), 3 days ago) - PHP Mutation Testing library
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.5](https://github.com/api-platform/demo/releases/tag/v3.3.5), 1 week ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.5](https://github.com/api-platform/core/releases/tag/v3.3.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes

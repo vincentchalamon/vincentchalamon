@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) ([0.29.5](https://github.com/infection/infection/releases/tag/0.29.5), today) - PHP Mutation Testing library
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.0.1](https://github.com/zenstruck/foundry/releases/tag/v2.0.1), 2 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
-- [infection/infection](https://github.com/infection/infection) ([0.29.4](https://github.com/infection/infection/releases/tag/0.29.4), 5 days ago) - PHP Mutation Testing library
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.5](https://github.com/api-platform/demo/releases/tag/v3.3.5), 2 weeks ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.5](https://github.com/api-platform/core/releases/tag/v3.3.5), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.4](https://github.com/api-platform/api-platform/releases/tag/v3.3.4), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v1.38.1](https://github.com/zenstruck/foundry/releases/tag/v1.38.1), 1 day ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.0.3](https://github.com/zenstruck/foundry/releases/tag/v2.0.3), today) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.6](https://github.com/api-platform/demo/releases/tag/v3.3.6), 5 days ago) - Demo app for the API Platform framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.6](https://github.com/api-platform/api-platform/releases/tag/v3.3.6), 5 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.6](https://github.com/api-platform/core/releases/tag/v3.3.6), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes

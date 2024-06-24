@@ -11,7 +11,7 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (3 months ago)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (3 months ago)
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (4 months ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

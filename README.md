@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (today)
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (1 week ago)
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 weeks ago)
 - [infection/site](https://github.com/infection/site) - Documentation for Infection - PHP Mutation Testing Framework (2 weeks ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)

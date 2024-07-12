@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 day ago)
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (2 weeks ago)
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (3 weeks ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (1 month ago)

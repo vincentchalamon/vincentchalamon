@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 day ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 days ago)
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (3 weeks ago)
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine. (1 month ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (1 month ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.11](https://github.com/api-platform/demo/releases/tag/v3.3.11), 1 day ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.11](https://github.com/api-platform/core/releases/tag/v3.3.11), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.0](https://github.com/api-platform/admin/releases/tag/v4.0.0), 6 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.11](https://github.com/api-platform/demo/releases/tag/v3.3.11), 2 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.11](https://github.com/api-platform/core/releases/tag/v3.3.11), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.0](https://github.com/api-platform/admin/releases/tag/v4.0.0), 1 week ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.0.7](https://github.com/zenstruck/foundry/releases/tag/v2.0.7), 1 week ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.7](https://github.com/api-platform/api-platform/releases/tag/v3.3.7), 3 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [infection/infection](https://github.com/infection/infection) ([0.29.6](https://github.com/infection/infection/releases/tag/0.29.6), 1 month ago) - PHP Mutation Testing library

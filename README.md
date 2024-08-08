@@ -9,7 +9,7 @@
 - [infection/site](https://github.com/infection/site) - Documentation for Infection - PHP Mutation Testing Framework (2 months ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (2 months ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 months ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 months ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 months ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (5 months ago)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (5 months ago)
 

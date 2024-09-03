@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.3](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.4](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.0.9](https://github.com/zenstruck/foundry/releases/tag/v2.0.9), 1 day ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 1 month ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.11](https://github.com/api-platform/demo/releases/tag/v3.3.11), 1 month ago) - Demo app for the API Platform framework

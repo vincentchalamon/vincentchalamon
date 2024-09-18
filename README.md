@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (3 days ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (today)
 - [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.13](https://github.com/api-platform/demo/releases/tag/v3.3.13), 3 days ago) - Demo app for the API Platform framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.4.0](https://github.com/api-platform/demo/releases/tag/v3.4.0), today) - Demo app for the API Platform framework
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.0.9](https://github.com/zenstruck/foundry/releases/tag/v2.0.9), 2 weeks ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 1 month ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.7](https://github.com/api-platform/api-platform/releases/tag/v3.3.7), 2 months ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

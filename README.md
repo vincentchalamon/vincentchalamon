@@ -5,7 +5,7 @@
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (today)
 - [api-platform/json-hal](https://github.com/api-platform/json-hal) - [READ ONLY] API Platform HAL component (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] Symfony API Platform integration (1 week ago)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (1 week ago)
 - [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (1 week ago)
 - [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (1 week ago)

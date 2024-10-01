@@ -22,5 +22,4 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.7](https://github.com/api-platform/api-platform/releases/tag/v3.3.7), 3 months ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [infection/infection](https://github.com/infection/infection) ([0.29.6](https://github.com/infection/infection/releases/tag/0.29.6), 3 months ago) - PHP Mutation Testing library
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v1.6.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v1.6.0), 4 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
-- [GregoireHebert/docusign-bundle](https://github.com/GregoireHebert/docusign-bundle) ([5.6.5](https://github.com/GregoireHebert/docusign-bundle/releases/tag/5.6.5), 2 years ago) - Symfony bundle to create electronic signatures with DocuSign
 

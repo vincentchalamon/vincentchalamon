@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0](https://github.com/api-platform/core/releases/tag/v4.0.0), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0](https://github.com/api-platform/core/releases/tag/v4.0.0), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.2](https://github.com/api-platform/demo/releases/tag/v4.0.2), 1 week ago) - Demo app for the API Platform framework
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.0.9](https://github.com/zenstruck/foundry/releases/tag/v2.0.9), 4 weeks ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.0.9](https://github.com/zenstruck/foundry/releases/tag/v2.0.9), 1 month ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 2 months ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.7](https://github.com/api-platform/api-platform/releases/tag/v3.3.7), 3 months ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [infection/infection](https://github.com/infection/infection) ([0.29.6](https://github.com/infection/infection/releases/tag/0.29.6), 3 months ago) - PHP Mutation Testing library

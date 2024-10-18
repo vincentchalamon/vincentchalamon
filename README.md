@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (4 days ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (5 days ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (3 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (3 weeks ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.4](https://github.com/api-platform/demo/releases/tag/v4.0.4), 4 days ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.4](https://github.com/api-platform/core/releases/tag/v4.0.4), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.4](https://github.com/api-platform/demo/releases/tag/v4.0.4), 5 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.4](https://github.com/api-platform/core/releases/tag/v4.0.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [infection/infection](https://github.com/infection/infection) ([0.29.7](https://github.com/infection/infection/releases/tag/0.29.7), 1 week ago) - PHP Mutation Testing library
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.1.0](https://github.com/zenstruck/foundry/releases/tag/v2.1.0), 2 weeks ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 2 months ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs

@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.4.4](https://github.com/api-platform/core/releases/tag/v3.4.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.5](https://github.com/api-platform/core/releases/tag/v4.0.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.4](https://github.com/api-platform/demo/releases/tag/v4.0.4), 1 week ago) - Demo app for the API Platform framework
 - [infection/infection](https://github.com/infection/infection) ([0.29.7](https://github.com/infection/infection/releases/tag/0.29.7), 2 weeks ago) - PHP Mutation Testing library
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.1.0](https://github.com/zenstruck/foundry/releases/tag/v2.1.0), 2 weeks ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.

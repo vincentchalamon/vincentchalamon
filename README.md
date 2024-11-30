@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.10](https://github.com/api-platform/api-platform/releases/tag/v4.0.10), 4 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.10](https://github.com/api-platform/api-platform/releases/tag/v4.0.10), 5 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.10](https://github.com/api-platform/demo/releases/tag/v4.0.10), 1 week ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.10](https://github.com/api-platform/core/releases/tag/v4.0.10), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.2](https://github.com/api-platform/admin/releases/tag/v4.0.2), 3 weeks ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs

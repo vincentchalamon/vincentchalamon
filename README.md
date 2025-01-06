@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v1.38.4](https://github.com/zenstruck/foundry/releases/tag/v1.38.4), 2 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.13](https://github.com/api-platform/demo/releases/tag/v4.0.13), 6 days ago) - Demo app for the API Platform framework
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v1.38.4](https://github.com/zenstruck/foundry/releases/tag/v1.38.4), 3 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.0.13](https://github.com/api-platform/demo/releases/tag/v4.0.13), 1 week ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.1.0-alpha.1), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [infection/infection](https://github.com/infection/infection) ([0.29.10](https://github.com/infection/infection/releases/tag/0.29.10), 2 weeks ago) - PHP Mutation Testing library
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.11](https://github.com/api-platform/api-platform/releases/tag/v4.0.11), 1 month ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

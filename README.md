@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.3.7](https://github.com/zenstruck/foundry/releases/tag/v2.3.7), 2 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.3.7](https://github.com/zenstruck/foundry/releases/tag/v2.3.7), 3 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [infection/infection](https://github.com/infection/infection) ([0.29.14](https://github.com/infection/infection/releases/tag/0.29.14), 1 week ago) - PHP Mutation Testing library
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.19](https://github.com/api-platform/core/releases/tag/v4.0.19), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.0](https://github.com/api-platform/demo/releases/tag/v4.1.0), 1 week ago) - Demo app for the API Platform framework

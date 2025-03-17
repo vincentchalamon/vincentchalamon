@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.3.8](https://github.com/zenstruck/foundry/releases/tag/v2.3.8), 2 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 5 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.3.8](https://github.com/zenstruck/foundry/releases/tag/v2.3.8), 3 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 6 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [infection/infection](https://github.com/infection/infection) ([0.29.14](https://github.com/infection/infection/releases/tag/0.29.14), 2 weeks ago) - PHP Mutation Testing library
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.0](https://github.com/api-platform/demo/releases/tag/v4.1.0), 2 weeks ago) - Demo app for the API Platform framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 2 weeks ago) - The Symfony PHP framework

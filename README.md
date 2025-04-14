@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.4.0](https://github.com/zenstruck/foundry/releases/tag/v2.4.0), today) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.7](https://github.com/api-platform/demo/releases/tag/v4.1.7), 3 days ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.7](https://github.com/api-platform/core/releases/tag/v4.1.7), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v1.38.6](https://github.com/zenstruck/foundry/releases/tag/v1.38.6), 1 week ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 2 weeks ago) - The Symfony PHP framework
 - [infection/infection](https://github.com/infection/infection) ([0.29.14](https://github.com/infection/infection/releases/tag/0.29.14), 1 month ago) - PHP Mutation Testing library
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.0.0), 2 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle

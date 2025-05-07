@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 weeks ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 month ago)
@@ -15,11 +15,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.4.3](https://github.com/zenstruck/foundry/releases/tag/v2.4.3), 1 day ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1), 4 days ago) - The Symfony PHP framework
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.4.3](https://github.com/zenstruck/foundry/releases/tag/v2.4.3), 2 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1), 5 days ago) - The Symfony PHP framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.7](https://github.com/api-platform/demo/releases/tag/v4.1.7), 3 weeks ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.7](https://github.com/api-platform/core/releases/tag/v4.1.7), 3 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [infection/infection](https://github.com/infection/infection) ([0.29.14](https://github.com/infection/infection/releases/tag/0.29.14), 2 months ago) - PHP Mutation Testing library
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.0.0), 3 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.2](https://github.com/api-platform/admin/releases/tag/v4.0.2), 5 months ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.2](https://github.com/api-platform/admin/releases/tag/v4.0.2), 6 months ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 

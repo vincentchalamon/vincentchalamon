@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), today) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.8](https://github.com/api-platform/core/releases/tag/v4.1.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.4.3](https://github.com/zenstruck/foundry/releases/tag/v2.4.3), 5 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.7](https://github.com/api-platform/demo/releases/tag/v4.1.7), 4 weeks ago) - Demo app for the API Platform framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 1 day ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.8](https://github.com/api-platform/core/releases/tag/v4.1.8), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.4.3](https://github.com/zenstruck/foundry/releases/tag/v2.4.3), 6 days ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.7](https://github.com/api-platform/demo/releases/tag/v4.1.7), 1 month ago) - Demo app for the API Platform framework
 - [infection/infection](https://github.com/infection/infection) ([0.29.14](https://github.com/infection/infection/releases/tag/0.29.14), 2 months ago) - PHP Mutation Testing library
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.0.0), 3 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.2](https://github.com/api-platform/admin/releases/tag/v4.0.2), 6 months ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs

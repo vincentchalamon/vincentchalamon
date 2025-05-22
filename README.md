@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.7](https://github.com/api-platform/admin/releases/tag/v4.0.7), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.7](https://github.com/api-platform/admin/releases/tag/v4.0.7), 6 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) ([v2.5.0](https://github.com/zenstruck/foundry/releases/tag/v2.5.0), 1 week ago) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.8](https://github.com/api-platform/demo/releases/tag/v4.1.8), 1 week ago) - Demo app for the API Platform framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2), 1 week ago) - The Symfony PHP framework

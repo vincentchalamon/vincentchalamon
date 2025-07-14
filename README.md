@@ -18,5 +18,5 @@
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.18](https://github.com/api-platform/demo/releases/tag/v4.1.18), 1 week ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.1), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 2 weeks ago) - The Symfony PHP framework
-- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.0.0), 5 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
+- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.0.0), 6 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 

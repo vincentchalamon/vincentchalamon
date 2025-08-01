@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/formation-git](https://github.com/vincentchalamon/formation-git) -  (1 day ago)
+- [vincentchalamon/formation-git](https://github.com/vincentchalamon/formation-git) -  (today)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 weeks ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (4 weeks ago)

@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vincentchalamon/treasure-hunt-in-lille](https://github.com/vincentchalamon/treasure-hunt-in-lille) - Jeu de piste pour visiter Lille / Treasure hunt to visit Lille (today)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (1 month ago)
@@ -11,7 +12,6 @@
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 months ago)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (6 months ago)
 - [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (10 months ago)
-- [api-platform/json-hal](https://github.com/api-platform/json-hal) - [READ ONLY] API Platform HAL component (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

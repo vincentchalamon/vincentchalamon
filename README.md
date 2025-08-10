@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste pour visiter Lille / Treasure hunt to visit Lille (today)
+- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste pour visiter Lille / Treasure hunt to visit Lille (1 day ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (1 month ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v0.1.0-alpha-1](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v0.1.0-alpha-1), today) - Jeu de piste pour visiter Lille / Treasure hunt to visit Lille
+- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v0.1.0-alpha-1](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v0.1.0-alpha-1), 1 day ago) - Jeu de piste pour visiter Lille / Treasure hunt to visit Lille
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 1 week ago) - The Symfony PHP framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.20](https://github.com/api-platform/demo/releases/tag/v4.1.20), 2 weeks ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.20](https://github.com/api-platform/core/releases/tag/v4.1.20), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes

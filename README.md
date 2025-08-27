@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v0.1.0](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v0.1.0), 1 day ago) - Jeu de piste mobile / Scavenger hunt mobile game
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v0.1.0](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v0.1.0), 2 days ago) - Jeu de piste mobile / Scavenger hunt mobile game
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 3 weeks ago) - The Symfony PHP framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.20](https://github.com/api-platform/demo/releases/tag/v4.1.20), 1 month ago) - Demo app for the API Platform framework
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.0.0), 7 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle

@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 days ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (3 days ago)
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (3 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (2 months ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.22](https://github.com/api-platform/demo/releases/tag/v4.1.22), 2 days ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.3), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3), 4 days ago) - The Symfony PHP framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.1.22](https://github.com/api-platform/demo/releases/tag/v4.1.22), 3 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.3), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3), 5 days ago) - The Symfony PHP framework
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v0.1.0](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v0.1.0), 1 week ago) - Jeu de piste mobile / Scavenger hunt mobile game
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.0.0), 7 months ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 

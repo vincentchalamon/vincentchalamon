@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (4 days ago)
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (5 days ago)
+- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (5 days ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (6 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 months ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (3 months ago)
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.2.1](https://github.com/api-platform/demo/releases/tag/v4.2.1), 5 days ago) - Demo app for the API Platform framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.2.1](https://github.com/api-platform/demo/releases/tag/v4.2.1), 6 days ago) - Demo app for the API Platform framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 1 week ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.1](https://github.com/api-platform/core/releases/tag/v4.2.1), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v0.1.0](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v0.1.0), 1 month ago) - Jeu de piste mobile / Scavenger hunt mobile game

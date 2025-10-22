@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (2 weeks ago)
+- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (3 weeks ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (3 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 months ago)

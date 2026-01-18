@@ -10,7 +10,6 @@
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (6 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (9 months ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (10 months ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 

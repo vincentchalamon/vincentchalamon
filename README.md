@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.6](https://github.com/symfony/symfony/releases/tag/v7.4.6), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), today) - The Symfony PHP framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.2.17](https://github.com/api-platform/demo/releases/tag/v4.2.17), 5 days ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.2), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v1.0.0-beta.6](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v1.0.0-beta.6), 1 week ago) - Jeu de piste mobile / Scavenger hunt mobile game

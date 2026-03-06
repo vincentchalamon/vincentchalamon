@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.2](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.2.19](https://github.com/api-platform/demo/releases/tag/v4.2.19), 1 week ago) - Demo app for the API Platform framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 1 week ago) - The Symfony PHP framework
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v1.0.0-beta.6](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v1.0.0-beta.6), 2 weeks ago) - Jeu de piste mobile / Scavenger hunt mobile game

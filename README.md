@@ -9,8 +9,8 @@
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (6 days ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
 - [vincentchalamon/poc-ddd](https://github.com/vincentchalamon/poc-ddd) - A DDD API Platform project to POC stuffs (2 weeks ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (8 months ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (8 months ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (8 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (11 months ago)
 
 #### 🔭 Latest releases I've contributed to

@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.2](https://github.com/api-platform/core/releases/tag/v4.3.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.1](https://github.com/api-platform/demo/releases/tag/v4.3.1), 1 week ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.1](https://github.com/api-platform/core/releases/tag/v4.3.1), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v1.0.1](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v1.0.1), 1 week ago) - Jeu de piste mobile / Scavenger hunt mobile game
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 3 weeks ago) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 1 year ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

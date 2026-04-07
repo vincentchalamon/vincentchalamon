@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/bike-trip-planner](https://github.com/vincentchalamon/bike-trip-planner) - A bike trip planner. Paste a Komoot URL, get a structured day-by-day roadbook with pacing, elevation alerts, accommodation suggestions, and a shareable content. (3 days ago)
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (4 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
-- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (2 weeks ago)
+- [vincentchalamon/bike-trip-planner](https://github.com/vincentchalamon/bike-trip-planner) - A bike trip planner. Paste a Komoot URL, get a structured day-by-day roadbook with pacing, elevation alerts, accommodation suggestions, and a shareable content. (4 days ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (5 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
+- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (3 weeks ago)
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (3 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 month ago)
 - [vincentchalamon/poc-ddd](https://github.com/vincentchalamon/poc-ddd) - A DDD API Platform project to POC stuffs (1 month ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 week ago) - The Symfony PHP framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.3](https://github.com/api-platform/demo/releases/tag/v4.3.3), 1 week ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v1.0.1](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v1.0.1), 3 weeks ago) - Jeu de piste mobile / Scavenger hunt mobile game

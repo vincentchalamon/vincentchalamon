@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.1.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.1.0), today) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.3](https://github.com/api-platform/demo/releases/tag/v4.3.3), 1 week ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v1.0.1](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v1.0.1), 3 weeks ago) - Jeu de piste mobile / Scavenger hunt mobile game
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 1 year ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.0.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.0.0), 1 year ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 

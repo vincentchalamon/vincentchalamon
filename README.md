@@ -11,7 +11,6 @@
 - [vincentchalamon/poc-ddd](https://github.com/vincentchalamon/poc-ddd) - A DDD API Platform project to POC stuffs (1 month ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (9 months ago)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (9 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 

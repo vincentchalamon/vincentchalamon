@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/bike-trip-planner](https://github.com/vincentchalamon/bike-trip-planner) - A bike trip planner. Paste a Komoot URL, get a structured day-by-day roadbook with pacing, elevation alerts, accommodation suggestions, and a shareable content. (today)
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (5 days ago)
+- [vincentchalamon/bike-trip-planner](https://github.com/vincentchalamon/bike-trip-planner) - A bike trip planner. Paste a Komoot URL, get a structured day-by-day roadbook with pacing, elevation alerts, accommodation suggestions, and a shareable content. (1 day ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (6 days ago)
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 month ago)
 - [vincentchalamon/poc-ddd](https://github.com/vincentchalamon/poc-ddd) - A DDD API Platform project to POC stuffs (1 month ago)
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (9 months ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (9 months ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (10 months ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 

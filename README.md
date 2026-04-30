@@ -4,6 +4,7 @@
 
 - [vincentchalamon/bike-trip-planner](https://github.com/vincentchalamon/bike-trip-planner) - A bike trip planner. Paste a Komoot URL, get a structured day-by-day roadbook with pacing, elevation alerts, accommodation suggestions, and a shareable content. (today)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
+- [sportlog/fit](https://github.com/sportlog/fit) - A PHP decoder for FIT files created by Garmin devices. (1 week ago)
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle (1 month ago)

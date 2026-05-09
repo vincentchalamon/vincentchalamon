@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/bike-trip-planner](https://github.com/vincentchalamon/bike-trip-planner) - A bike trip planner. Paste a Komoot URL, get a structured day-by-day roadbook with pacing, elevation alerts, accommodation suggestions, and a shareable content. (2 days ago)
-- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (3 days ago)
+- [vincentchalamon/bike-trip-planner](https://github.com/vincentchalamon/bike-trip-planner) - A bike trip planner. Paste a Komoot URL, get a structured day-by-day roadbook with pacing, elevation alerts, accommodation suggestions, and a shareable content. (3 days ago)
+- [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (4 days ago)
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [sportlog/fit](https://github.com/sportlog/fit) - A PHP decoder for FIT files created by Garmin devices. (2 weeks ago)

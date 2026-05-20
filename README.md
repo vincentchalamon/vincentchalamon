@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vincentchalamon/bike-trip-planner](https://github.com/vincentchalamon/bike-trip-planner) - A bike trip planner. Paste a Komoot URL, get a structured day-by-day roadbook with pacing, elevation alerts, accommodation suggestions, and a shareable content. (1 day ago)
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
+- [vincentchalamon/bike-trip-planner](https://github.com/vincentchalamon/bike-trip-planner) - A bike trip planner. Paste a Komoot URL, get a structured day-by-day roadbook with pacing, elevation alerts, accommodation suggestions, and a shareable content. (today)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (today)
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) - Jeu de piste mobile / Scavenger hunt mobile game (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [sportlog/fit](https://github.com/sportlog/fit) - A PHP decoder for FIT files created by Garmin devices. (4 weeks ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.5](https://github.com/api-platform/demo/releases/tag/v4.3.5), 1 week ago) - Demo app for the API Platform framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.5.1](https://github.com/api-platform/demo/releases/tag/v4.3.5.1), today) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.5](https://github.com/api-platform/core/releases/tag/v4.3.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [coopTilleuls/CoopTilleulsForgotPasswordBundle](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle) ([v2.1.0](https://github.com/coopTilleuls/CoopTilleulsForgotPasswordBundle/releases/tag/v2.1.0), 1 month ago) - Provides a &#34;forgot password&#34; complete feature for your API through a Symfony bundle
 - [vincentchalamon/scavenger-hunt](https://github.com/vincentchalamon/scavenger-hunt) ([v1.0.1](https://github.com/vincentchalamon/scavenger-hunt/releases/tag/v1.0.1), 2 months ago) - Jeu de piste mobile / Scavenger hunt mobile game
